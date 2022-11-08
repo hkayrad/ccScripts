@@ -1,0 +1,11 @@
+{
+  "Lua.diagnostics.globals": [
+    "turtle",
+    "colors",
+    "peripheral",
+    "redstone"
+  ],
+  "Lua.diagnostics.disable": [
+    "undefined-field"
+  ]
+}
